@@ -441,7 +441,7 @@ a {
 }
 
 /* Contact Section */
-/* ============= */
+/* --------------- */
 
 .main-section#contact {
   flex-direction: column;
@@ -496,6 +496,7 @@ a {
 }
 
 /* Main Sections */
+/* ============= */
 
 @media (min-width: 768px) {
   .main-section#experience {
